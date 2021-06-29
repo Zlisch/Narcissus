@@ -1,10 +1,8 @@
-# Assets for *Narcissus*
-
 <img src="./conceptsArt/6-29/gitCover.jpg" style="pointer-events:none;">
 
-Developers for *Narcissus* : 
+## Developers
 
-<a href="https://github.com/Zlisch" style="color:rgb(88, 166, 255);">@Zlisch</a>&nbsp;&nbsp;<a href="https://github.com/SavageFT" style="color:rgb(88, 166, 255);">@SavageFT</a>
+<a href="https://github.com/Zlisch" style="color:rgb(88, 166, 255)">@Zlisch</a>&nbsp;&nbsp;<a href="https://github.com/SavageFT" style="color:rgb(88, 166, 255)">@SavageFT</a>
 
 ## Contribute
 
