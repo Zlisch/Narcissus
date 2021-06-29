@@ -1,4 +1,4 @@
-<img src="./conceptsArt/6-29/gitCover.jpg" style="pointer-events:none;">
+<img src="./conceptsArt/6-29/gitCover.jpg" style="cursor: default;">
 
 ## Developers
 
