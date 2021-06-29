@@ -1,6 +1,6 @@
 # Assets for *Narcissus*
 
-<img src="./conceptsArt/6-29/gitCover.jpg" style="pointer-events:none;max-height:150px;">
+<img src="./conceptsArt/6-29/gitCover.jpg" style="pointer-events:none;">
 
 Developers for *Narcissus* : 
 
