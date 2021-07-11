@@ -12,15 +12,15 @@
 
    打开终端，进入Narcissus Github 项目的根目录
 
-1. *`git config pull.ff only` 
+2. `git config pull.ff only` 
 
    <i>(Optional but recommended: To avoid creating extra merge commit whenever </i>`git pull` <i>is called. <a href="https://stackoverflow.com/questions/62653114/how-to-deal-with-this-git-warning-pulling-without-specifying-how-to-reconcile">Further reading</a>)</i>
 
    <i>(可选但建议：运行之后Git默认用fast-forward模式执行</i>`git pull`<i>指令，可避免产生额外的Merge commit。<a href="https://stackoverflow.com/questions/62653114/how-to-deal-with-this-git-warning-pulling-without-specifying-how-to-reconcile">相关阅读</a>)</i>
 
-2. `git pull` to download
+3. `git pull` to download
 
-   从remote服务器上下载更新的unity文件。
+   下载更新的unity文件
 
 #### Unity
 
