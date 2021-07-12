@@ -4,6 +4,16 @@
 
 <a href="https://github.com/SavageFT" style="color:rgb(88, 166, 255)" target="_blank">@SavageFT</a>&nbsp;&nbsp;<a href="https://github.com/Zlisch" style="color:rgb(88, 166, 255)" target="_blank">@Zlisch</a>
 
+
+
+## Resources
+
+&#128073;Unity Doc: <a href="https://docs.unity3d.com/Manual/com.unity.inputsystem.html">https://docs.unity3d.com/Manual/com.unity.inputsystem.html</a>
+
+&#128073;C# Doc: <a href="https://docs.unity3d.com/530/Documentation/ScriptReference/index.html">https://docs.unity3d.com/530/Documentation/ScriptReference/index.html</a>
+
+
+
 ## Set up for the first time 首次设置
 
 #### CML 命令行
@@ -28,9 +38,13 @@
 2. Click 'Add' button
 3. Navigate to your github repository, and select the downloaded unity project folder
 
+
+
 ## Contribute
 
 Please run `git pull` for latest updates from main branch before making any changes to your local copies.
+
+
 
 ## Contents
 
@@ -40,4 +54,6 @@ Please run `git pull` for latest updates from main branch before making any chan
    - Sample music files
 3. conceptsArt
    - Design drafts for objects, characters and scenes
+4. NarcissusPrototype
+   - Narcissus unity project files
 
