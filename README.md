@@ -8,9 +8,9 @@
 
 ## Resources
 
-&#128073;Unity Doc: <a href="https://docs.unity3d.com/Manual/com.unity.inputsystem.html">https://docs.unity3d.com/Manual/com.unity.inputsystem.html</a>
+&#128073;Unity Doc: <a href="https://docs.unity3d.com/Manual/com.unity.inputsystem.html" target="_blank">https://docs.unity3d.com/Manual/com.unity.inputsystem.html</a>
 
-&#128073;C# Doc: <a href="https://docs.unity3d.com/530/Documentation/ScriptReference/index.html">https://docs.unity3d.com/530/Documentation/ScriptReference/index.html</a>
+&#128073;C# Doc: <a href="https://docs.unity3d.com/530/Documentation/ScriptReference/index.html" target="_blank">https://docs.unity3d.com/530/Documentation/ScriptReference/index.html</a>
 
 
 
