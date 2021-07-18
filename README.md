@@ -4,15 +4,17 @@
 
 <a href="https://github.com/SavageFT" style="color:rgb(88, 166, 255)" target="_blank">@SavageFT</a>&nbsp;&nbsp;<a href="https://github.com/Zlisch" style="color:rgb(88, 166, 255)" target="_blank">@Zlisch</a>
 
-
-
 ## Resources
 
-&#128073;Unity Doc: <a href="https://docs.unity3d.com/Manual/com.unity.inputsystem.html" target="_blank">https://docs.unity3d.com/Manual/com.unity.inputsystem.html</a>
+&#128073;Unity InputSystem Doc 1.0.2 <i style="color:green;font-weight:bold;">latest</i>
 
-&#128073;C# Doc: <a href="https://docs.unity3d.com/530/Documentation/ScriptReference/index.html" target="_blank">https://docs.unity3d.com/530/Documentation/ScriptReference/index.html</a>
+​    `using UnityEngine.InputSystem;`
 
+​    <a href="https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/api/UnityEngine.InputSystem.html">https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/api/UnityEngine.InputSystem.html</a>
 
+&#128073;C# Doc
+
+​    <a href="https://docs.unity3d.com/530/Documentation/ScriptReference/index.html" target="_blank">https://docs.unity3d.com/530/Documentation/ScriptReference/index.html</a>
 
 ## Set up for the first time 首次设置
 
